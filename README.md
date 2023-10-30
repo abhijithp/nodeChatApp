@@ -23,22 +23,13 @@ Installing
 A step by step series of examples that tell you how to get a development environment running.
 
     Clone the repository:
+    git clone https://github.com/yourusername/nodeChatApp.git
+    cd nodeChatApp
 
-    bash
+    Install dependencies:
+    npm install
 
-git clone https://github.com/yourusername/nodeChatApp.git
-cd nodeChatApp
-
-Install dependencies:
-
-bash
-
-npm install
-
-Start the server:
-
-bash
-
+    Start the server:
     npm start
 
     Open your browser:
